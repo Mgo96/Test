@@ -1,0 +1,14 @@
+body{background-image: url(./../Images/Eiffel\ Tower\ Black\ And\ White\ Desktop\ Wallpaper.jpg);
+background-repeat: no-repeat;
+background-attachment:scroll;
+background-size: 100%;}
+            img{width: 90px; height: 90px;}
+    .em{color: white; font-size: 1em;}
+    .em1{color:whitesmoke; font-size: 2em;}
+    .em2{color:red; font-size: 3em;}
+    *{font-weight:bold ; font: size:200px;}
+img{width: 200px ; height: 200px ; } 
+input{color:black; font-weight: bold;}
+div.a {
+          text-align: center;
+        }
